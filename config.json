@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "configpetch",
+        "uuid": 17975580,
+        "checksum": "361uz9"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": false,
+        "mode": "production"
+    }
+}
